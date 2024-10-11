@@ -8,6 +8,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		ArrayList<Animal> ani = new ArrayList<>();
 		
+//		Animal t3 = new Anlmal();		// 추상 클래스는 객체 생성이 불가하다 -> 에러발생
+		
 		Animal t1 = new Tiger();
 		t1.aniName = "호돌이";
 		t1.aniAge = 1;

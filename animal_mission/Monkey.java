@@ -7,5 +7,11 @@ public class Monkey extends Animal{
 		// TODO Auto-generated method stub
 		System.out.println(super.aniName+"에게 바나나 10개를 주었습니다~!");
 	}
+
+	@Override
+	public void kkk() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
